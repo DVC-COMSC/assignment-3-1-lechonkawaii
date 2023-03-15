@@ -17,4 +17,4 @@ def main():
       print (f'{n3} is the smallest numnber')
 
 if __name__ == '__main__':
-    main()
+      main()
